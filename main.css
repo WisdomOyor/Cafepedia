@@ -154,7 +154,7 @@ h3{
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: #00010e;
+  background-color: rgb(231, 0, 0);
   color: #fff;
 }
 .contact-info ul{
